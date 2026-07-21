@@ -1,0 +1,32 @@
+<svg viewBox="0 0 800 450" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B9C55"/>
+      <stop offset="55%" stop-color="#16E37D"/>
+      <stop offset="100%" stop-color="#6FFFB0"/>
+    </linearGradient>
+    <pattern id="dots2" width="16" height="16" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.6" fill="#08090B" opacity="0.16"/>
+    </pattern>
+  </defs>
+  <rect width="800" height="450" fill="url(#bg)"/>
+  <rect x="540" y="0" width="260" height="450" fill="url(#dots2)"/>
+  <rect x="14" y="14" width="772" height="422" fill="none" stroke="#08090B" stroke-width="3" opacity="0.85"/>
+
+  <g transform="translate(300,150)" fill="#08090B">
+    <rect x="0" y="0" width="230" height="150" rx="16"/>
+  </g>
+  <g transform="translate(300,150)" fill="none" stroke="#6FFFB0" stroke-width="3">
+    <circle cx="52" cy="58" r="22"/>
+    <path d="M22 118 C22 92 82 92 82 118"/>
+    <line x1="112" y1="40" x2="196" y2="40"/>
+    <line x1="112" y1="64" x2="196" y2="64"/>
+    <line x1="112" y1="108" x2="170" y2="108"/>
+  </g>
+
+  <g transform="translate(600,120)" fill="#08090B">
+    <path d="M28 0 L0 65 L22 65 L6 120 L60 48 L36 48 Z"/>
+  </g>
+
+  <text x="48" y="400" font-family="Arial Black, sans-serif" font-weight="900" font-size="46" fill="#08090B" opacity="0.92">GO LIVE</text>
+</svg>
