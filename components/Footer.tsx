@@ -92,7 +92,7 @@ export default function Footer() {
                 </div>
                 <div>
                   <div className="text-white font-medium text-sm">WhatsApp</div>
-                  <div className="text-xs text-gray-500">+91 87644 65110</div>
+                  <div className="text-xs text-gray-500">+91 83607 50829</div>
                 </div>
               </a>
 
