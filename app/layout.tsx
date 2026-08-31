@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "One WhatsApp message and your Bet Vault ID is live in minutes. Cricket, football, casino — one login, real people on the other end.",
   keywords: "cricket betting ID, IPL betting ID, online betting ID India, Bet Vault",
   verification: {
-    google: "tZWue2OuKHuG9JDtNVjv5oi1GLn4eZvYwYmMzFkzyX8",
+    google: "91rQlMPLsvL9Ct-yudMFfztkYFfL-kkg2JNB4TBkGVo",
   },
   openGraph: {
     title: "BetVault | Online Cricket Betting, Sports Betting & Casino",
