@@ -4,12 +4,12 @@ import { useState } from 'react';
 import { waLink } from '@/lib/whatsapp';
 
 const faqs = [
-  { q: 'Is this actually legal for me?', a: "Betting laws vary by state in India — it's genuinely confusing. We operate under international licensing like most platforms in this space. Check your local rules, and bet responsibly either way." },
+  { q: 'Is this actually legal for me?', a: "Gaming laws vary by state in India — it's genuinely confusing. We operate under international licensing like most platforms in this space. Check your local rules, and bet responsibly either way." },
   { q: 'How fast is fast, really?', a: 'Most people have a working ID within five to ten minutes. Never a multi-day wait, though we\'re not going to promise it\'s always instant if we\'re mid-conversation with someone else.' },
   { q: 'One ID for everything?', a: 'Yes — cricket, football, casino, and more, all through the same login. No separate account per game.' },
   { q: 'Is my money safe?', a: 'We work only with platforms using bank-level encryption and established payment gateways. Deposits are near-instant, withdrawals move on the same rails.' },
   { q: 'Which tournaments are covered?', a: "IPL, T20 World Cup, ODI series, Test matches, The Ashes, county cricket — if it's cricket and it's happening, it's on the board." },
-  { q: 'What is Bet Vault, one line?', a: 'A small team that sets up cricket betting IDs by hand over WhatsApp instead of a form.' },
+  { q: 'What is Bet Vault, one line?', a: 'A small team that sets up cricket gaming IDs by hand over WhatsApp instead of a form.' },
   { q: 'How do I sign up?', a: 'Message us. Share your name and a couple of details, we handle the rest — no forms, no email verification wait.' },
   { q: 'Why do I need an ID?', a: "It's your key in — logging in, placing bets, tracking winnings, claiming bonuses, all from one place." },
   { q: 'How do deposits work?', a: 'Log in, pick UPI, net banking, or a wallet, enter the amount, confirm. Funds usually show up almost immediately.' },

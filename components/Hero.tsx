@@ -1,14 +1,14 @@
 import { waLink } from '@/lib/whatsapp';
 
 const stats = [
-  { value: '3M+', label: 'People betting with us' },
+  { value: '3M+', label: 'People gaming with us' },
   { value: '<5 min', label: 'From hello to your ID' },
   { value: '24/7', label: 'Real humans, not bots' },
   { value: '10+', label: 'Markets, one login' },
 ];
 
 export default function Hero() {
-  const whatsappUrl = waLink("Hey Bet Vault, I'd like to get my betting ID set up.");
+  const whatsappUrl = waLink("Hey Bet Vault, I'd like to get my gaming ID set up.");
 
   return (
     <section id="hero" className="relative pt-28 pb-16 sm:pt-36 sm:pb-24 overflow-hidden">
@@ -33,7 +33,7 @@ export default function Hero() {
 
             <p className="text-gray-400 text-base sm:text-lg leading-relaxed mb-8 max-w-lg">
               Skip the forms. Send us a WhatsApp message, tell us what you need, and your cricket
-              betting ID lands in the same chat — usually in under five minutes.
+              gaming ID lands in the same chat — usually in under five minutes.
             </p>
 
             <div className="flex flex-wrap items-center gap-4">

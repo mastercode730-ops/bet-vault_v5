@@ -28,7 +28,7 @@ const points = [
   },
   {
     title: 'WE SAY THE QUIET PART',
-    desc: "Betting isn't rent money. We'll tell you that straight, every time.",
+    desc: "Gaming isn't rent money. We'll tell you that straight, every time.",
     icon: 'shield',
     tone: 'gold',
   },
@@ -48,7 +48,7 @@ export default function Features() {
             </h2>
           </div>
           <p className="text-gray-500 text-sm max-w-xs">
-            We didn't reinvent betting — we just got tired of platforms making it harder than it needs to be.
+            We didn't reinvent gaming — we just got tired of platforms making it harder than it needs to be.
           </p>
         </div>
 

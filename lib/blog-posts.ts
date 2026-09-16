@@ -93,7 +93,7 @@ export const blogPosts: BlogPost[] = [
     icon: '💰',
     title: 'The withdrawal truth',
     excerpt:
-      'Slow withdrawals are the single biggest complaint about betting platforms in general. Here is what actually causes the delay — and how to dodge it.',
+      'Slow withdrawals are the single biggest complaint about gaming platforms in general. Here is what actually causes the delay — and how to dodge it.',
     image: '/blog/payments.svg',
     readTime: '5 min read',
     sections: [
@@ -140,7 +140,7 @@ export const blogPosts: BlogPost[] = [
       },
       {
         heading: 'Over/under goals',
-        body: "Not about who wins — about total goals scored. A common line is 2.5, and you're betting whether the combined score lands above or below it.",
+        body: "Not about who wins — about total goals scored. A common line is 2.5, and you're gaming whether the combined score lands above or below it.",
       },
       {
         heading: 'Both teams to score',

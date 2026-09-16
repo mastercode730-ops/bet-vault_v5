@@ -52,7 +52,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-gray-500 text-sm leading-relaxed max-w-xs">
-              A small team that sets up cricket betting IDs over WhatsApp, by hand, usually before
+              A small team that sets up cricket gaming IDs over WhatsApp, by hand, usually before
               your tea gets cold.
             </p>
           </div>
